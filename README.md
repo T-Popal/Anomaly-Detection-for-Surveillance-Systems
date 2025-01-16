@@ -1,4 +1,4 @@
-Anomaly Detection for Surveillance Systems
+Anomaly Detection for Surveillance Systems:
 Use of different algorithms for anomaly detection, a step toward real world implementation.
 Details of work:
 Anomalous human action recognition is one of the hot topics of computer vision and machine learning,
